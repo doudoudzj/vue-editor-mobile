@@ -17,12 +17,12 @@ var pkg = require('./package.json')
  */
 export default {
     entry: 'src/index.js',
-    dest: 'dist/vue-html5-editor.js',
+    dest: 'dist/vue-editor-mobile.js',
     format: 'umd',
-    moduleName: "VueHtml5Editor",
+    moduleName: 'VueEditorMobile',
     plugins: [
         license({
-            banner: `Vue-html5-editor ${pkg.version}\n${pkg.repository.url}\nbuild at ${new Date()}`
+            banner: `Vue-editor-mobile ${pkg.version}\n${pkg.repository.url}\nbuild at ${new Date()}`
         }),
         progress({
             clearLine: false

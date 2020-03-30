@@ -5,14 +5,14 @@
 }
 
 /**
-.vue-html5-editor
+.vue-editor-mobile
     ├──.toolbar
     |    ├── ul  (menu)
     |    └── .dashboard.html
     └──.content
 */
 
-.vue-html5-editor {
+.vue-editor-mobile {
   font-size: 14px;
   line-height: 1.5;
   background-color: white;
@@ -143,7 +143,7 @@
 }
 
 @media (max-width: 767px) {
-  .vue-html5-editor {
+  .vue-editor-mobile {
     .dashboard {
       label, input[type='text'], input[type='number'], button, select {
         display: block;
@@ -158,7 +158,7 @@
 }
 
 @media (min-width: 768px) {
-  .vue-html5-editor {
+  .vue-editor-mobile {
     .dashboard {
       label, input, button, select {
         display: inline-block;

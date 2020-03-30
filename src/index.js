@@ -11,7 +11,7 @@ polyfill()
  * @param Vue   {Vue}
  * @param options {Object}
  */
-class VueHtml5Editor {
+class VueEditorMobile {
 
     /**
      * build an editor component
@@ -102,8 +102,8 @@ class VueHtml5Editor {
      * @param options
      */
     static install(Vue, options = {}) {
-        Vue.component(options.name || 'vue-html5-editor', new VueHtml5Editor(options))
+        Vue.component(options.name || 'vue-editor-mobile', new VueEditorMobile(options))
     }
 }
 
-export default VueHtml5Editor
+export default VueEditorMobile

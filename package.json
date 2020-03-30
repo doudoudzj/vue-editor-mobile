@@ -19,7 +19,7 @@
     "html5",
     "editor"
   ],
-  "author": "peak",
+  "author": "doudoudzj",
   "license": "Apache-2.0",
   "devDependencies": {
     "eslint": "^3.9.1",

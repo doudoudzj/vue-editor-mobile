@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <title>vue html5 editor demo</title>
     <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/>
-    <script src="../dist/vue-html5-editor.js"></script>
+    <script src="../dist/vue-editor-mobile.js"></script>
     <script src="https://cdn.bootcss.com/vue/2.2.6/vue.js"></script>
     <script src="https://cdn.bootcss.com/moment.js/2.14.1/moment.min.js"></script>
     <link href="https://cdn.bootcss.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet">
@@ -18,7 +18,7 @@
 </head>
 <body>
 <div id="app">
-    <vue-html5-editor :content.sync="content" :height="500"></vue-html5-editor>
+    <vue-editor-mobile :content.sync="content" :height="500"></vue-editor-mobile>
 </div>
 
 
@@ -29,7 +29,7 @@
 </script>
 <script>
 
-    Vue.use(VueHtml5Editor, {
+    Vue.use(VueEditorMobile, {
         i18n: {
             //i18n for custom module
             "en-us": {
