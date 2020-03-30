@@ -7,7 +7,7 @@ import mixin from './util/mixin'
 
 polyfill()
 /**
- * Vue html5 Editor
+ * Vue Editor Mobile
  * @param Vue   {Vue}
  * @param options {Object}
  */

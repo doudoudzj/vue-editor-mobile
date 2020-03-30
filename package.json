@@ -1,6 +1,6 @@
 {
   "name": "vue-editor-mobile",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "A WYSIWYG text editor base on html5 and vue",
   "repository": {
     "type": "git",
