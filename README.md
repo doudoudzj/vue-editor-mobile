@@ -4,9 +4,9 @@ vue-editor-mobile 是一个 Vue 的富文本编辑器插件，简洁灵活可扩
 
 vue-editor-mobile is an html5 wysiwyg editor for vue,easy and flexible,compatible with Vue.js 2.0+,support IE11.
 
-![screenshot](screenshot/editor.png)
+![screenshot](https://doudoudzj.github.io/vue-editor-mobile/screenshot/editor.png)
 
-[点击查看演示效果 Demo is here](example/)
+[点击查看演示效果（online demo）](https://doudoudzj.github.io/vue-editor-mobile/example/)
 
 # 安装 Installation
 
