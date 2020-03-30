@@ -1,6 +1,6 @@
 {
   "name": "vue-editor-mobile",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "A WYSIWYG text editor base on html5 and vue",
   "repository": {
     "type": "git",
@@ -21,6 +21,7 @@
   ],
   "author": "doudoudzj",
   "license": "Apache-2.0",
+  "homepage": "https://doudoudzj.github.io/vue-editor-mobile/",
   "devDependencies": {
     "eslint": "^3.9.1",
     "eslint-config-airbnb": "^12.0.0",

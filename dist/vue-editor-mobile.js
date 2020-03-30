@@ -1,7 +1,7 @@
 /**
- * Vue-editor-mobile 0.0.5
+ * Vue-editor-mobile 0.0.6
  * https://github.com/doudoudzj/vue-editor-mobile
- * build at Mon Mar 30 2020 22:06:35 GMT+0800 (中国标准时间)
+ * build at Mon Mar 30 2020 23:18:13 GMT+0800 (中国标准时间)
  */
 
 (function (global, factory) {
@@ -544,7 +544,7 @@ var dashboard$4 = {
     template: template$4,
     data: function data(){
         return {
-            version: "0.0.5"
+            version: "0.0.6"
         }
     }
 };
