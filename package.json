@@ -6,7 +6,7 @@
     "type": "git",
     "url": "https://github.com/doudoudzj/vue-editor-mobile"
   },
-  "main": "dist/vue-html5-editor.js",
+  "main": "dist/vue-editor-mobile.js",
   "scripts": {
     "build": "npm run lint && rollup -c rollup.config.js",
     "test": "echo \"Error: no test specified\" && exit 1",
